@@ -1,2 +1,2 @@
 # GmailEmailsExtrator
-This simple python script goes through your gmail and saves the Date , From , To and Subject into a CSV file . User can specify the From and to Date for email search
+This simple python script goes through users gmail account  and saves the Date , From , To and Subject into a CSV file of all emails within user specified date ranges.
